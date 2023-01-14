@@ -31,5 +31,5 @@ class Solution(object):
 
 if __name__=='__main__':
     output=Solution()
-    print(output.lengthOfLongestSubstring("dvdf"))
+    print(output.lengthOfLongestSubstring(''))
     
