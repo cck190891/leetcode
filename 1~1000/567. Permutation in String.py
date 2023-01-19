@@ -1,11 +1,11 @@
 import time
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-
+        
         s1_list=list(s1)
         s2_list=list(s2)
         check=[]
-
+        
         for t,x in enumerate(s2_list):
             if x in s1_list:
                 s1_list.remove(x)
@@ -23,9 +23,7 @@ class Solution:
                     else:
                         s1_list=list(s1)
                         check=[]
-            print(x)
-            print(s1_list)
-            print(check)
+
         return False
 
 if __name__=='__main__':
