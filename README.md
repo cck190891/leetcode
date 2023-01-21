@@ -11,7 +11,7 @@ TLE:
 
 Note:
 Leetcode study plan(DS) 
-目前是每個迴圈用一個list存一次放入(ans.append(mem))=>改List放入用指定的會更快[x][y]
+目前是每個迴圈用一個list存一次放入(ans.append(mem))=>改List放入用指定的會更快
 121 O(n)但TLE，題目10000~0 超大List
 
 2023/01/21
