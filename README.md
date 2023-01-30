@@ -1,6 +1,12 @@
 # 用來作為Leetcode的紀錄
+2023/01/30
+--------------------  
+Finish:  
+102. Binary Tree Level Order Traversal  
+104. Maximum Depth of Binary Tree  
+
 2023/01/26
---------------------
+--------------------  
 Finish:  
 36. Valid Sudoku  
 74. Search a 2D Matrix  
@@ -10,7 +16,7 @@ Finish:
 387. First Unique Character in a String  
   
 Note:  
-use Counter  
+use Counter 
 
 2023/01/22
 --------------------
